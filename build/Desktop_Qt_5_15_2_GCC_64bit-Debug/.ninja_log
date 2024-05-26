@@ -1,0 +1,12 @@
+# ninja log v5
+1	11	1716636741938426360	/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/logParser_autogen/EWIEGA46WW/qrc_qml.cpp	2bdbca9e8e2dc283
+2	20	1714563828094589634	/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/logParser_autogen/mocs_compilation.cpp	cc0f5c2ff1fea474
+48	58	1714562902782109835	CMakeFiles/logParser.dir/logParser_autogen/mocs_compilation.cpp.o	ae28398553c8977e
+26	207	1716636742134428316	logParser	f0cfaf6dd0c24714
+47	768	1714562903490085832	CMakeFiles/logParser.dir/main.cpp.o	dcb75be46f34cf27
+0	40	1716637270546367531	build.ninja	6562fefbd33290fd
+1	11	1716636741938426360	logParser_autogen/EWIEGA46WW/qrc_qml.cpp	2bdbca9e8e2dc283
+2	20	1714563828094589634	logParser_autogen/mocs_compilation.cpp	cc0f5c2ff1fea474
+2	20	1714563828094589634	/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/logParser_autogen/timestamp	cc0f5c2ff1fea474
+2	20	1714563828094589634	logParser_autogen/timestamp	cc0f5c2ff1fea474
+11	26	1716636741954426520	CMakeFiles/logParser.dir/logParser_autogen/EWIEGA46WW/qrc_qml.cpp.o	12f8892cdecb733

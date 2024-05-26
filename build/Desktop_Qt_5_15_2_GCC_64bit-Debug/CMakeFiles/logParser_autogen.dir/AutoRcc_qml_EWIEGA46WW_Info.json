@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/logParser_autogen",
+	"CMAKE_BINARY_DIR" : "/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/dika/Project/logParser",
+	"CMAKE_SOURCE_DIR" : "/home/dika/Project/logParser",
+	"INCLUDE_DIR" : "/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/logParser_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/dika/Project/logParser/main.qml",
+		"/home/dika/Project/logParser/qml/Common/Colors.qml",
+		"/home/dika/Project/logParser/qml/Common/qmldir",
+		"/home/dika/Project/logParser/qml/Components/ButtonPlus.qml",
+		"/home/dika/Project/logParser/qml/Components/DialogConnection.qml",
+		"/home/dika/Project/logParser/qml/Components/qmldir"
+	],
+	"LOCK_FILE" : "/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/logParser_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/opt/Qt/5.15.2/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/logParser_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/dika/Project/logParser/qml.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,9 @@
+/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/logParser.dir
+/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/logParser_autogen_timestamp_deps.dir
+/home/dika/Project/logParser/build/Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/logParser_autogen.dir
